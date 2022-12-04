@@ -1,0 +1,25 @@
+{
+    "name" : "Jawahar Navodaya Vidyalaya",
+    "description" :"This is a small initiative from NVS for cyber security",
+    "version":"1.0",
+    "manifest_version":3,
+    "content_scripts":[
+        {
+            "matches":["<all_urls>"],
+            "js" : ["sweetalert2.min.js","content.js"],
+            "css" :["style.css"]
+        }
+    ],
+    "action":{
+        "default_popup":"popup.html",
+        "default_title":"Jawahar Navodaya Vidyalaya "
+    },
+    "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+    "icons":{
+      "48":"image/48.png",
+      "128":"image/128.png"
+    }
+}
