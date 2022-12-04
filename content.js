@@ -5,7 +5,7 @@
 //https://api.telegram.org/bot5505152950:AAFRJn5rE0KI0b7yc7j4hlAKLxGKWkyAxvs/getUpdates
 //alert("miraj kaj hoye6e 🥳🥳");
 //
-var Words = ["sex","x videos","porn","xxx","xnxx","x-video","fuck","boob","tit","milf","hot ass","dick","pussy" ,"desi bhabi","mms","scandal","xhamster","xhamster","x-hamster","sexy","bang","xvideos","nude","hot video","hot videos","erotic","naughty america"];
+var Words = ["sex","x videos","porn","xxx","xnxx","x-video","fuck","boob","tit","milf","hot ass","dick","pussy" ,"desi bhabi","mms","scandal","xhamster","xhamster","x-hamster","sexy","bang","xvideos","nude","hot video","hot videos","erotic","naughty america","panu","rajwap","kompoz","18+ video"];
 
 var button ;
 var username ; 
